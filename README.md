@@ -1,6 +1,4 @@
-Here’s your content formatted as a clean, professional GitHub README in Markdown format:
 
-⸻
 
 Autoloader for Modcharts
 
@@ -219,6 +217,3 @@ debugPrint("[modchart name] script is executing.")
 
 This confirms the script is not only loaded but actively running.
 
-⸻
-
-This setup should help organize your modcharts and ensure smooth integration with Psych Engine’s modchart system.
